@@ -1,0 +1,35 @@
+EY GERİZEKALİ 13  UYARIM VAR 
+
+İLKİ EĞER KODUN ÇALIŞMIYORSA DOĞRU YERE YAZDIĞINDAN EMİN OL !!!!
+
+İKİNCİSİ HTML TAGİNİN İÇİNDE PHP VERİSİ YAZDİRİRKEN ECHO KULLAN !!!!
+
+ÜÇÜNCÜSÜ EĞER SESSİONDAN VERİ GELMİYORSA SESSİON START YAZ !!!!
+
+DÖRDÜNCÜSÜ DOSYA ADIYLA KÜTÜPHANE ADINI AYNI YAPMA !!!!
+
+BEŞİNCİSİ WİDGET BUİLD FONKSİYONU İÇİNDE KENDİNİ SÜREKLİ ÇAĞIRABİLECEK SETSTATE FONKSİYONLARI KULLANMA !!!!
+
+ALTINCISI OpenCV'de renk ve şekil bulma uygulaması yaparken önce rengi sonra şekli bul !!!!
+
+YEDİNCİSİ STM32 ADC Modülünü kullanırken birden fazla kanal kullanıcaksan DMA Requesti enable etmeyi unutma !!!!
+
+SEKİZİNCİSİ EĞER PROJEN ÇALIŞMIYORSA VE ÖMER BOARD LEHİMLEDİYSE FAZLADAN PİN LEHİMLEMEDİĞİNDEN EMİN OL !!!!
+
+DOKUZUNCUSU STM32DE PWM, ADC GİBİ MODÜLLERİ KULLANIRKEN GEREKLİ PARAMETRELERİ ENABLE ETTİĞİNDEN EMİN OL !!!!
+
+ONUNCUSU MOBİL UYGULAMA GELİŞTİRİRKEN TELEFON VE BİLGİSAYAR SAATİNİN AYNI OLDUĞUNDAN EMİN OL BUTONA BASILI TUTMAYI ALGILAYAMAZ !!!!
+
+ONBİRİNCİSİ ARDUİNODA SERİ HABERLEŞME İSTEDİĞİN HIZDA GERÇEKLEŞMİYORSA S*KT*ĞİMİN DELAYİNİ SİL !!!!
+
+ONİKİNCİSİ KOD YAZARKEN EKLEDİĞİN DEBUG KOMUTLARINI SON AŞAMADA SİLMEYİ UNUTMA !!!!
+
+ONÜÇÜNCÜSÜ md5 ile hashleyip şifre gönderirken backendde kontrolü boşluk karakterinin hashlenebildiğini unutmadan yap !!!!
+
+
+
+BU ARADA 
+
+taskkill /f /im ngrok.exe      (ngrok kapatıcı)
+
+heroku ps:scale web=0   (nodejs server kapatıcı)
